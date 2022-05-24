@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Do Now</string>
+    <string name="action_settings">Секундомер</string>
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="tv_title">Title</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="enter_todo_hint">Купить коту подарок</string>
+    <string name="empty_field">Empty task</string>
+    <string name="due_date_text">Выбор даты</string>
+    <string name="today">Сегодня</string>
+    <string name="tomorrow">Завтра</string>
+    <string name="next_week">Следующая неделя</string>
+    <string name="radio_high">Экстренный</string>
+    <string name="radio_med">Основной</string>
+    <string name="radio_low">Дополнительный</string>
+    <string name="image_description">button image</string>
+
+
+    <string name="start">Старт</string>
+    <string name="stop">Стоп</string>
+    <string name="restart">Сброс</string>
+</resources>
